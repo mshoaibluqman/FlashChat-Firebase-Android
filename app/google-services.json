@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858940991437",
+    "firebase_url": "https://freeflashchat-16fe7.firebaseio.com",
+    "project_id": "freeflashchat-16fe7",
+    "storage_bucket": "freeflashchat-16fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858940991437:android:6c5dab71ef0e6210",
+        "android_client_info": {
+          "package_name": "com.mshoaibluqman.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858940991437-m4vtpc72ts7d7955uc3kd371jaoi67dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSR5Ukxn4xc8rFmNnN3DwvCt-47ZIUs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

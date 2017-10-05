@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/FlashChat-Firebase-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b71527e352669eb443385904224a7f23fe230e1">
+        <dex dex="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_415dd22ed40ab16ad105d161325d67cfee7439f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/FlashChat-Firebase-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc3215b217559d35f53cae5d532a6d4bdf0ee944/classes.dex" />
+    </item>
+
+</items>
